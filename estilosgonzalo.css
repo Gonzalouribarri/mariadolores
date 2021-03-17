@@ -1,0 +1,29 @@
+﻿body{
+  background-color: rgb(245,245,255);
+  text-align: justify;
+}
+p{
+  font-family: times new roman;
+  margin: 50px;
+}
+header{
+  background-color:rgb(32,32,32);
+  height: 70px;
+  width: 1330px;
+}
+h1{
+  text-align: center;
+  color: rgb(255,255,255)
+}
+img{
+  float: right;
+  padding: 20px;
+ 
+}
+footer{
+  background-color: rgb(32,32,32);
+  color: rgb(255,255,255);
+}
+li{
+  padding: 10px;
+}
